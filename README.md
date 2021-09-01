@@ -11,8 +11,6 @@ python main1.py
 ## Dataset<br>
 * data
     * CeramincsCoating.csv 
-    * MaterialLiterature.csv
-    * skipgram_phrases_200d.txt
 <br>
 
 
