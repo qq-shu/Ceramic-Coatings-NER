@@ -15,7 +15,7 @@ python main1.py
 
 
 ## Supplementary<br>
-If you need material word embeddings or material literature data, please contact 943125730@qq.com.
+If you need material word embeddings or material literature data, please leave a message.
 
 
 
