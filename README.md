@@ -9,8 +9,7 @@ python main1.py
 
 
 ## Dataset<br>
-* data
-    * CeramincsCoating.csv 
+* CeramincsCoating.csv 
 <br>
 
 
